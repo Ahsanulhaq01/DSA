@@ -4,38 +4,43 @@ A centralized repository for my journey in mastering Data Structures and Algorit
 
 ---
 
-## ð Overview
+## Ã°ÂÂÂ Overview
 This repository serves as a personal log of my progress in competitive programming. It contains solutions to challenges encountered on platforms like **LeetCode** and others, helping me refine my code efficiency, time/space complexity analysis, and mastery of core CS fundamentals.
 
-## ð ï¸ Workflow
+## Ã°ÂÂÂ Ã¯Â¸Â Workflow
 *   **Automation:** Solutions for LeetCode are synced automatically using the **LeetHub** extension.
 *   **Other Platforms:** Manually curated solutions from additional coding platforms are added to maintain a comprehensive record.
 *   **Environment:** Development and local testing conducted on **Fedora Linux**.
 
-## ð Stats
+## Ã°ÂÂÂ Stats
 *   **Total Problems Solved:** 200+
 *   **Focus:** Continuous improvement in data structure implementation and algorithmic optimization.
 
 ---
 
-## ð Repository Organization
+## Ã°ÂÂÂ Repository Organization
 Solutions are structured to allow for easy navigation and review:
 *   Organized by problem difficulty or topic (e.g., Arrays, Graphs, Dynamic Programming).
 *   Includes code implementations and, where applicable, notes on the chosen approach.
 
 ---
 
-## ð¬ Connect
+## Ã°ÂÂÂ¬ Connect
 *   **LinkedIn:** https://www.linkedin.com/in/ahsanulhaq01/
 *   **GitHub:** https://github.com/Ahsanulhaq01
 
 ---
-*Maintained with â¤ï¸ on Fedora Linux.*
+*Maintained with Ã¢ÂÂ¤Ã¯Â¸Â on Fedora Linux.*
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ahsanulhaq01/DSA/tree/master/0001-two-sum) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Ahsanulhaq01/DSA/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Ahsanulhaq01/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
